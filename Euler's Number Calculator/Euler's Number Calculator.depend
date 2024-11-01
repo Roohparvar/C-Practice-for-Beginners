@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729765380 source:d:\github\c practice for beginners\euler's number calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729762500 source:d:\github\c practice for beginners\gcd and lcm calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
