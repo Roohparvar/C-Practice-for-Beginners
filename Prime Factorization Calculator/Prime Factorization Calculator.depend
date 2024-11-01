@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729763761 source:d:\github\c practice for beginners\prime factorization calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

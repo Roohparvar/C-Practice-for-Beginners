@@ -16,6 +16,11 @@ This repository has been created in response to student requests for programming
 8. **Find Common Elements in Lists**: This program first takes the number of elements for two lists from the user. It then receives two lists of numbers and displays the common numbers between these two lists.
 9. **GCD and LCM Calculator**: This program takes two numbers and calculates the greatest common divisor (GCD) and least common multiple (LCM), displaying the results to the user.
 10. **Most Frequent Character in a Word**: This program receives a word from the user and identifies the character that occurs most frequently in that word. It uses an auxiliary array to count the occurrences of each character efficiently.
+11. **Parentheses Validator**: This program receives an expression from the user containing parentheses and checks if the parentheses are balanced (i.e., the number of opening and closing parentheses matches and the order is correct).
+12. **Prime Factorization Calculator**: This program takes a number from the user and calculates its prime factors, displaying them.
+13. **Prime Number Finder**: This program calculates and stores prime numbers, allowing the user to enter a number N to retrieve the Nth prime number. The prime numbers are stored in an array sequentially.
+14. **Quadratic Equation Solver**: This program receives a quadratic equation from the user and solves it using the delta formula (Δ), calculating the roots. It indicates whether the equation has one, two, or no roots.
+15. **Reverse Number Calculator**: This program takes an integer from the user and displays the reverse of that number (i.e., the digits of the number in reverse order).
 
 ---
 

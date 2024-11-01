@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729764524 source:d:\github\c practice for beginners\quadratic equation solver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
