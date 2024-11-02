@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729750529 source:d:\github\c practice for beginners\scientific notation formatter\main.c
+	<stdio.h>
+	<stdlib.h>
+

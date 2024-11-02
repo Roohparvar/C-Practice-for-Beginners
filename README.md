@@ -21,6 +21,11 @@ This repository has been created in response to student requests for programming
 13. **Prime Number Finder**: This program calculates and stores prime numbers, allowing the user to enter a number N to retrieve the Nth prime number. The prime numbers are stored in an array sequentially.
 14. **Quadratic Equation Solver**: This program receives a quadratic equation from the user and solves it using the delta formula (Δ), calculating the roots. It indicates whether the equation has one, two, or no roots.
 15. **Reverse Number Calculator**: This program takes an integer from the user and displays the reverse of that number (i.e., the digits of the number in reverse order).
+16. **Reverse Word Printer**: This program receives a sentence from the user and prints the words in reverse order. The last word is printed first, followed by the others.
+17. **Scientific Notation Formatter**: This program takes a number in scientific notation (e.g., 2e+7) from the user and converts it to its decimal form, displaying the result.
+18. **Three-Digit Numbers Divisible by Sum of Digits**: This program finds and prints all three-digit numbers that are divisible by the sum of their digits.
+19. **Two-Digit Numbers Divisible by Sum of Digits**: This program finds and prints all two-digit numbers that are divisible by the sum of their digits.
+20. **Word Counter**: This program takes a sentence from the user that ends with a dot (.) and counts the number of words in that sentence, printing the result. The user can enter a sentence with varying spaces between words.
 
 ---
 
